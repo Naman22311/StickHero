@@ -108,13 +108,6 @@ Applied to critical components like the `GameRegistry` to ensure a single point 
 ![Game Screenshot](src/main/resources/com/stickman/images/character.png)
 *The brave stick hero ready to conquer all challenges!*
 
----
-
-## 🙏 Acknowledgments 🙏
-
-- Inspired by the classic mobile Stick Hero game
-- Special thanks to all the testers who provided valuable feedback
-- Built with ❤️ by our amazing development team
 
 ---
 
